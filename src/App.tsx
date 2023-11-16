@@ -59,6 +59,9 @@ function App() {
               <li className='nav-item'>
                 <Link to={'contact'} className='nav-link'>Contact</Link>
               </li>
+              <li className='nav-item'>
+                <Link to={'sponsorship'} className='nav-link'>Sponsorship</Link>
+              </li>
             </ul>
           </div>
         </nav>
