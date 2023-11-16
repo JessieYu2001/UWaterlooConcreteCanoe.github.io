@@ -3,7 +3,7 @@ import React from "react";
 function Sponsorship() {
     return (
         <div className="Sponsorship" style={{marginTop: "50px"}}>
-        xxx
+        Sponsorship Tier List
         </div>
     );
 }
